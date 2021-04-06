@@ -1,0 +1,7 @@
+C:\Users\usuario\Desktop\Digital_Ware\Ejercicio_Consola\Ejercicio_Consola\bin\Debug\Ejercicio_Consola.exe.config
+C:\Users\usuario\Desktop\Digital_Ware\Ejercicio_Consola\Ejercicio_Consola\bin\Debug\Ejercicio_Consola.exe
+C:\Users\usuario\Desktop\Digital_Ware\Ejercicio_Consola\Ejercicio_Consola\bin\Debug\Ejercicio_Consola.pdb
+C:\Users\usuario\Desktop\Digital_Ware\Ejercicio_Consola\Ejercicio_Consola\obj\Debug\Ejercicio_Consola.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Digital_Ware\Ejercicio_Consola\Ejercicio_Consola\obj\Debug\Ejercicio_Consola.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Digital_Ware\Ejercicio_Consola\Ejercicio_Consola\obj\Debug\Ejercicio_Consola.exe
+C:\Users\usuario\Desktop\Digital_Ware\Ejercicio_Consola\Ejercicio_Consola\obj\Debug\Ejercicio_Consola.pdb
